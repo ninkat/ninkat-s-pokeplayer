@@ -21,6 +21,16 @@ const router = createRouter({
       path: '/logs',
       name: 'logs',
       component: () => import('../views/LogsView.vue')
+    },
+    {
+      path: '/achievements',
+      name: 'achievements',
+      component: () => import('../views/StudyAchievements.vue')
+    },
+    {
+      path: '/timer',
+      name: 'timer',
+      component: () => import('../components/MyTimer.vue')
     }
   ]
 })
