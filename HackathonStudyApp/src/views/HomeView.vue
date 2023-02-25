@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import SplashPage from "../components/SplashPage.vue";
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <SplashPage/>
   </main>
 </template>

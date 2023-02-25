@@ -8,8 +8,7 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Hackathon Study Tool
-      <br>What will you use it for?
+      "Working" Prototype
     </h3>
   </div>
 </template>
