@@ -33,7 +33,6 @@ header {
   display: block;
   margin: 0 auto 2rem;
 }
-
 nav {
   width: 100%;
   font-size: 12px;
