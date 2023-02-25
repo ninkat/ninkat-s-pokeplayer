@@ -1,1 +1,1 @@
-# ninkat-s-pokeplayer
+# ninkatpokeplayer
