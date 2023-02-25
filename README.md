@@ -7,4 +7,6 @@ Install packages with npm (npm install)
 
 Then, you'll be able to launch the app using ```npm run serve```
 
-Contributers: Caleb Pollreis, Dion Barja, Timmy Wang
+Contributers: Caleb Pollreis, Dion Barja, Timmy 
+
+#### Websites used in the making of this project:
