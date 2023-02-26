@@ -26,14 +26,32 @@ export default {
     this.tasks = [
       {
         id:1,
-        text: 'doctor',
-        day: 'someday',
+        text: 'January 83, 1486',
+        day: '11:36',
         reminder: true,
       },
       {
         id:2,
-        text: 'soccer',
-        day: 'monday',
+        text: 'February 25, 2023',
+        day: '14:53',
+        reminder: true
+      },
+      {
+        id:3,
+        text: 'July 9, 2007',
+        day: '35:42',
+        reminder: true
+      },
+      {
+        id:4,
+        text: 'March 15, 2086',
+        day: '1:03:05',
+        reminder: true
+      },
+      {
+        id:5,
+        text: 'December 22, 2022',
+        day: '53:12',
         reminder: true
       }
     ]
@@ -50,7 +68,7 @@ export default {
 }
 body {
   font-family: 'Poppins', sans-serif;
-  color:#68996e;
+  color:#237d3e;
 }
 .container {
   
@@ -58,7 +76,7 @@ body {
 .btn {
   display: inline-block;
   background: #000;
-  color: #fff;
+  color: #ffffff;
   border: none;
   padding: 10px 20px;
   margin: 5px;
