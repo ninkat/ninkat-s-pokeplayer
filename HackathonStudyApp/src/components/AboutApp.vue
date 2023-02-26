@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import WelcomeItem from './WelcomeItem.vue'
 import DocumentationIcon from './icons/IconDocumentation.vue'
-import ToolingIcon from './icons/IconTooling.vue'
+
 import EcosystemIcon from './icons/IconEcosystem.vue'
 import CommunityIcon from './icons/IconCommunity.vue'
 import SupportIcon from './icons/IconSupport.vue'
@@ -31,6 +31,9 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Sources</template>
     Getting started with BootstrapVue
     <br><a href="https://blog.logrocket.com/getting-started-bootstrapvue/">Click Here</a>
+    <br>
+    <br>Vue Crash Course 2021
+    <br><a href="https://github.com/bradtraversy/vue-crash-2021">Click Here</a>
     <br>
     <br>Font Tags
     <br><a href="https://www.w3schools.com/tags/tag_font.asp">Click Here</a>
