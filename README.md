@@ -1,6 +1,6 @@
 # studyapp
 Application for stuff.
-Change directory into my-app.\
+Change directory into HackathonStudyApp.\
 Install packages with npm (npm install)\
 Then, you'll be able to launch the app using ```npm run serve```
 
