@@ -1,9 +1,9 @@
 <script setup lang="ts">
-
+import AboutMe from "../components/AboutApp.vue"
 </script>
 <template>
   <main>
-    <h1>The timer was supposed to be here :(</h1>
+    <AboutMe/>
   </main>
 </template>
 
